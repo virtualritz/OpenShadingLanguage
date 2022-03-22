@@ -231,7 +231,7 @@ adding OSL support):
 * [Appleseed](http://appleseedhq.net)
 * [Animal Logic: Glimpse renderer](https://www.fxguide.com/featured/a-glimpse-at-animal-logic/)
 * [Image Engine: Gaffer](http://www.gafferhq.org/) (for expressions and deformers)
-* [DNA Research: 3Delight](http://www.3delight.com/)
+* [Illumination Research: 3Delight](http://www.3delight.com/)
 * Ubisoft motion picture group's proprietary renderer
 * [Autodesk/SolidAngle: Arnold](https://www.solidangle.com/arnold/)
 * [Autodesk: 3DS Max 2019](https://help.autodesk.com/view/3DSMAX/2019/ENU/?guid=__developer_3ds_max_sdk_features_rendering_osl_html)
